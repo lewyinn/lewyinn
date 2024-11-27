@@ -2,7 +2,8 @@
 
 Saya seorang Web Developer (Fullstack Developer) dan UI/UX Designer yang passionate tentang menciptakan pengalaman digital yang kreatif dan fungsional. Saya berfokus pada pengembangan web, desain grafis, dan teknologi inovatif untuk membantu bisnis mencapai tujuan mereka melalui solusi digital yang efektif.
 
-![Moch. Ridho Kurniawan](https://avatars.githubusercontent.com/u/your-github-id?s=200) <!-- Ganti URL dengan foto profil Anda -->
+![Moch. Ridho Kurniawan]([source](https://github.com/user-attachments/assets/fb028c5f-b1f7-4d3f-9cb4-5114eeb46b36))
+
 
 ## 🚀 **Skills & Teknologi**
 
@@ -13,8 +14,8 @@ Saya seorang Web Developer (Fullstack Developer) dan UI/UX Designer yang passion
 
 ## 🌐 **Links**
 
-- **Portofolio**: [Portfolio Saya](https://your-portfolio-link.com)
-- **LinkedIn**: [Moch. Ridho Kurniawan](https://www.linkedin.com/in/your-linkedin-profile)
+- **Portofolio**: [Portfolio Saya](https://mrdhkrnwn-portfolio.netlify.app/)
+- **LinkedIn**: [Moch. Ridho Kurniawan](https://linkedin.com/in/moch-ridho-kurniawan)
 
 ## 📫 **Contact**
 
