@@ -2,8 +2,7 @@
 
 Saya seorang Web Developer (Fullstack Developer) dan UI/UX Designer yang passionate tentang menciptakan pengalaman digital yang kreatif dan fungsional. Saya berfokus pada pengembangan web, desain grafis, dan teknologi inovatif untuk membantu bisnis mencapai tujuan mereka melalui solusi digital yang efektif.
 
-![Moch. Ridho Kurniawan]
-[source](https://github.com/user-attachments/assets/fb028c5f-b1f7-4d3f-9cb4-5114eeb46b36)
+![Moch. Ridho Kurniawan](https://github.com/user-attachments/assets/fb028c5f-b1f7-4d3f-9cb4-5114eeb46b36)
 
 
 ## 🚀 **Skills & Teknologi**
