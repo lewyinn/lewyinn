@@ -46,5 +46,5 @@ My work focuses on web development, graphic design, and innovative technology to
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=internet-archive&logoColor=white)](https://mrdhkrnwn.my.id)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moch-ridho-kurniawan)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/username)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ridhokurnwnn)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridhokur102@gmail.com)
