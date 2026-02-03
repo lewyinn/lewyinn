@@ -29,16 +29,16 @@ My work focuses on web development, graphic design, and innovative technology to
 
 </div>
 
----
+<!-- --- -->
 
-## 📊 **GitHub Stats**
+ <!-- ## 📊 **GitHub Stats** -->
 
-<div align="center">
+<!-- <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lewyinn&showicons=true&theme=transparent) <br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lewyinn&layout=compact&theme=transparent)  
 
-</div>
+</div> -->
 
 ---
 
