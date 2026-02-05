@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **Moch. Ridho Kurniawan**
 
-![Banner Discord](https://github.com/user-attachments/assets/9f055be6-98df-4d8b-8dfc-ddc2fa163921)
+![Banner Discord](https://github.com/user-attachments/assets/72dbed63-ed63-4909-8284-ff0587753102)
 
 ---
 
