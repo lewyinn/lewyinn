@@ -4,9 +4,7 @@ I'm Moch. Ridho Kurniawan, a fullstack developer and IT enthusiast with more tha
 
 I'm currently an IoT Software Engineer intern. I write backend services that connect devices to monitoring platforms and process their data in real time, and I build the user interface on ThingsBoard. I'm also building a SaaS platform for IoT as a fullstack engineer, covering both the frontend and the backend. I work with Go, PostgreSQL, and other tools for large-scale storage and processing.
 
-I'm open to freelance projects and collaborations. Email is the best way to reach me.
-
-[![Email me](https://img.shields.io/badge/Email%20me-3FB950?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridhokur102@gmail.com)
+I'm open to freelance projects and collaborations.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=3FB950&vCenter=true&width=520&height=32&lines=Fullstack+Developer;IT+Enthusiast;IoT+Software+Engineer;Open+to+freelance+and+collaboration)](https://git.io/typing-svg)
 
